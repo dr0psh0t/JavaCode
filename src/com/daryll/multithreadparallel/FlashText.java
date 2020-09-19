@@ -7,6 +7,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
+//  Flash Text
 public class FlashText extends Application {
     private String text = "";
     private Label lblText;
